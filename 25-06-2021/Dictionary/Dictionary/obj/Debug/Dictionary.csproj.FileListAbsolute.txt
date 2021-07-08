@@ -1,0 +1,9 @@
+D:\c#\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+D:\c#\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+D:\c#\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+D:\c#\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+D:\c#\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+D:\c#\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+D:\c#\25-06-2021\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+D:\c#\25-06-2021\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+D:\c#\25-06-2021\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

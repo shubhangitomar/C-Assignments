@@ -1,0 +1,6 @@
+D:\c#\RemoveRange\RemoveRange\bin\Debug\RemoveRange.exe.config
+D:\c#\RemoveRange\RemoveRange\bin\Debug\RemoveRange.exe
+D:\c#\RemoveRange\RemoveRange\bin\Debug\RemoveRange.pdb
+D:\c#\RemoveRange\RemoveRange\obj\Debug\RemoveRange.csprojResolveAssemblyReference.cache
+D:\c#\RemoveRange\RemoveRange\obj\Debug\RemoveRange.exe
+D:\c#\RemoveRange\RemoveRange\obj\Debug\RemoveRange.pdb

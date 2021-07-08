@@ -1,0 +1,6 @@
+D:\c#\AddRange\AddRange\bin\Debug\AddRange.exe.config
+D:\c#\AddRange\AddRange\bin\Debug\AddRange.exe
+D:\c#\AddRange\AddRange\bin\Debug\AddRange.pdb
+D:\c#\AddRange\AddRange\obj\Debug\AddRange.csprojResolveAssemblyReference.cache
+D:\c#\AddRange\AddRange\obj\Debug\AddRange.exe
+D:\c#\AddRange\AddRange\obj\Debug\AddRange.pdb

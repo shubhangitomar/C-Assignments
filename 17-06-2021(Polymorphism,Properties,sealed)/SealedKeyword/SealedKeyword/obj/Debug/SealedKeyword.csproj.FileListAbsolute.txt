@@ -1,0 +1,6 @@
+D:\c#\17-06-2021\SealedKeyword\SealedKeyword\bin\Debug\SealedKeyword.exe.config
+D:\c#\17-06-2021\SealedKeyword\SealedKeyword\obj\Debug\SealedKeyword.csprojResolveAssemblyReference.cache
+D:\c#\17-06-2021\SealedKeyword\SealedKeyword\bin\Debug\SealedKeyword.exe
+D:\c#\17-06-2021\SealedKeyword\SealedKeyword\bin\Debug\SealedKeyword.pdb
+D:\c#\17-06-2021\SealedKeyword\SealedKeyword\obj\Debug\SealedKeyword.exe
+D:\c#\17-06-2021\SealedKeyword\SealedKeyword\obj\Debug\SealedKeyword.pdb

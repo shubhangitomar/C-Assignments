@@ -1,0 +1,5 @@
+D:\c#\ParameterDefaults\ParameterDefaults\bin\Debug\ParameterDefaults.exe.config
+D:\c#\ParameterDefaults\ParameterDefaults\bin\Debug\ParameterDefaults.exe
+D:\c#\ParameterDefaults\ParameterDefaults\bin\Debug\ParameterDefaults.pdb
+D:\c#\ParameterDefaults\ParameterDefaults\obj\Debug\ParameterDefaults.exe
+D:\c#\ParameterDefaults\ParameterDefaults\obj\Debug\ParameterDefaults.pdb

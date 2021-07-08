@@ -1,0 +1,5 @@
+D:\c#\16-06-2021(Static)\ShoeHiddenMethod3\ShoeHiddenMethod3\bin\Debug\ShoeHiddenMethod3.exe.config
+D:\c#\16-06-2021(Static)\ShoeHiddenMethod3\ShoeHiddenMethod3\bin\Debug\ShoeHiddenMethod3.exe
+D:\c#\16-06-2021(Static)\ShoeHiddenMethod3\ShoeHiddenMethod3\bin\Debug\ShoeHiddenMethod3.pdb
+D:\c#\16-06-2021(Static)\ShoeHiddenMethod3\ShoeHiddenMethod3\obj\Debug\ShoeHiddenMethod3.exe
+D:\c#\16-06-2021(Static)\ShoeHiddenMethod3\ShoeHiddenMethod3\obj\Debug\ShoeHiddenMethod3.pdb

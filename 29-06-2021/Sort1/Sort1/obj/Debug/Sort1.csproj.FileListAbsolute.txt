@@ -1,0 +1,6 @@
+D:\c#\Sort1\Sort1\bin\Debug\Sort1.exe.config
+D:\c#\Sort1\Sort1\bin\Debug\Sort1.exe
+D:\c#\Sort1\Sort1\bin\Debug\Sort1.pdb
+D:\c#\Sort1\Sort1\obj\Debug\Sort1.csprojResolveAssemblyReference.cache
+D:\c#\Sort1\Sort1\obj\Debug\Sort1.exe
+D:\c#\Sort1\Sort1\obj\Debug\Sort1.pdb

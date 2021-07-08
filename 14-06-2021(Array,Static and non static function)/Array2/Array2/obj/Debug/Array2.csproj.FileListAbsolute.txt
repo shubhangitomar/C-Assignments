@@ -1,0 +1,6 @@
+D:\c#\14-06-2021\Array2\Array2\bin\Debug\Array2.exe.config
+D:\c#\14-06-2021\Array2\Array2\bin\Debug\Array2.exe
+D:\c#\14-06-2021\Array2\Array2\bin\Debug\Array2.pdb
+D:\c#\14-06-2021\Array2\Array2\obj\Debug\Array2.csprojResolveAssemblyReference.cache
+D:\c#\14-06-2021\Array2\Array2\obj\Debug\Array2.exe
+D:\c#\14-06-2021\Array2\Array2\obj\Debug\Array2.pdb

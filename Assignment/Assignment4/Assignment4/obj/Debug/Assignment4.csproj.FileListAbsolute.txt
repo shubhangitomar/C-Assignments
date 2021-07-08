@@ -1,0 +1,7 @@
+D:\c#\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+D:\c#\01-07-2021\Assignment\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+D:\c#\01-07-2021\Assignment\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+D:\c#\01-07-2021\Assignment\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+D:\c#\01-07-2021\Assignment\Assignment4\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
+D:\c#\01-07-2021\Assignment\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+D:\c#\01-07-2021\Assignment\Assignment4\Assignment4\obj\Debug\Assignment4.pdb

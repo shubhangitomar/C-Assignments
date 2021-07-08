@@ -1,0 +1,6 @@
+D:\c#\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe.config
+D:\c#\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe
+D:\c#\StringBuilder\StringBuilder\bin\Debug\StringBuilder.pdb
+D:\c#\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csprojResolveAssemblyReference.cache
+D:\c#\StringBuilder\StringBuilder\obj\Debug\StringBuilder.exe
+D:\c#\StringBuilder\StringBuilder\obj\Debug\StringBuilder.pdb

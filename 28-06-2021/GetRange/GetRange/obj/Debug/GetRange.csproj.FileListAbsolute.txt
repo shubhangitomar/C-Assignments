@@ -1,0 +1,8 @@
+D:\c#\GetRange\GetRange\bin\Debug\GetRange.exe.config
+D:\c#\GetRange\GetRange\bin\Debug\GetRange.exe
+D:\c#\GetRange\GetRange\bin\Debug\GetRange.pdb
+D:\c#\GetRange\GetRange\obj\Debug\GetRange.exe
+D:\c#\GetRange\GetRange\obj\Debug\GetRange.pdb
+D:\c#\28-06-2021\GetRange\GetRange\bin\Debug\GetRange.exe.config
+D:\c#\28-06-2021\GetRange\GetRange\obj\Debug\GetRange.exe
+D:\c#\28-06-2021\GetRange\GetRange\obj\Debug\GetRange.pdb

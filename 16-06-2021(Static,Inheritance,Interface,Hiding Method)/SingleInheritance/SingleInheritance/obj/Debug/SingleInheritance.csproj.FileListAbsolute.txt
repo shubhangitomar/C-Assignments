@@ -1,0 +1,6 @@
+D:\c#\16-06-2021(Static)\SingleInheritance\SingleInheritance\bin\Debug\SingleInheritance.exe.config
+D:\c#\16-06-2021(Static)\SingleInheritance\SingleInheritance\bin\Debug\SingleInheritance.exe
+D:\c#\16-06-2021(Static)\SingleInheritance\SingleInheritance\bin\Debug\SingleInheritance.pdb
+D:\c#\16-06-2021(Static)\SingleInheritance\SingleInheritance\obj\Debug\SingleInheritance.csprojResolveAssemblyReference.cache
+D:\c#\16-06-2021(Static)\SingleInheritance\SingleInheritance\obj\Debug\SingleInheritance.exe
+D:\c#\16-06-2021(Static)\SingleInheritance\SingleInheritance\obj\Debug\SingleInheritance.pdb

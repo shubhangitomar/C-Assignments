@@ -1,0 +1,6 @@
+D:\c#\14-06-2021\StaticAndNonStaticFun\StaticAndNonStaticFun\bin\Debug\StaticAndNonStaticFun.exe.config
+D:\c#\14-06-2021\StaticAndNonStaticFun\StaticAndNonStaticFun\bin\Debug\StaticAndNonStaticFun.exe
+D:\c#\14-06-2021\StaticAndNonStaticFun\StaticAndNonStaticFun\bin\Debug\StaticAndNonStaticFun.pdb
+D:\c#\14-06-2021\StaticAndNonStaticFun\StaticAndNonStaticFun\obj\Debug\StaticAndNonStaticFun.csprojResolveAssemblyReference.cache
+D:\c#\14-06-2021\StaticAndNonStaticFun\StaticAndNonStaticFun\obj\Debug\StaticAndNonStaticFun.exe
+D:\c#\14-06-2021\StaticAndNonStaticFun\StaticAndNonStaticFun\obj\Debug\StaticAndNonStaticFun.pdb

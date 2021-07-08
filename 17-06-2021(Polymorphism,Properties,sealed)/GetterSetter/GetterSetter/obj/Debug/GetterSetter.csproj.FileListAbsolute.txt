@@ -1,0 +1,6 @@
+D:\c#\17-06-2021\GetterSetter\GetterSetter\bin\Debug\GetterSetter.exe.config
+D:\c#\17-06-2021\GetterSetter\GetterSetter\bin\Debug\GetterSetter.exe
+D:\c#\17-06-2021\GetterSetter\GetterSetter\bin\Debug\GetterSetter.pdb
+D:\c#\17-06-2021\GetterSetter\GetterSetter\obj\Debug\GetterSetter.csprojResolveAssemblyReference.cache
+D:\c#\17-06-2021\GetterSetter\GetterSetter\obj\Debug\GetterSetter.exe
+D:\c#\17-06-2021\GetterSetter\GetterSetter\obj\Debug\GetterSetter.pdb

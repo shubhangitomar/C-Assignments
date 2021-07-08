@@ -1,0 +1,5 @@
+D:\c#\Stack\Stack\bin\Debug\Stack.exe.config
+D:\c#\Stack\Stack\bin\Debug\Stack.exe
+D:\c#\Stack\Stack\bin\Debug\Stack.pdb
+D:\c#\Stack\Stack\obj\Debug\Stack.exe
+D:\c#\Stack\Stack\obj\Debug\Stack.pdb

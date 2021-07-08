@@ -1,0 +1,5 @@
+D:\c#\17-06-2021\GetterSetter1\GetterSetter1\bin\Debug\GetterSetter1.exe.config
+D:\c#\17-06-2021\GetterSetter1\GetterSetter1\bin\Debug\GetterSetter1.exe
+D:\c#\17-06-2021\GetterSetter1\GetterSetter1\bin\Debug\GetterSetter1.pdb
+D:\c#\17-06-2021\GetterSetter1\GetterSetter1\obj\Debug\GetterSetter1.exe
+D:\c#\17-06-2021\GetterSetter1\GetterSetter1\obj\Debug\GetterSetter1.pdb

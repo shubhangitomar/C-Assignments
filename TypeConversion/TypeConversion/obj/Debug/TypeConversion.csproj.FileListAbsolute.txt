@@ -1,0 +1,6 @@
+C:\Users\dell\Desktop\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\dell\Desktop\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\dell\Desktop\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\dell\Desktop\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\dell\Desktop\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb

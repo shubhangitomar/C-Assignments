@@ -1,0 +1,6 @@
+D:\c#\16-06-2021(Static)\Static\Static\bin\Debug\Static.exe.config
+D:\c#\16-06-2021(Static)\Static\Static\bin\Debug\Static.exe
+D:\c#\16-06-2021(Static)\Static\Static\bin\Debug\Static.pdb
+D:\c#\16-06-2021(Static)\Static\Static\obj\Debug\Static.csprojResolveAssemblyReference.cache
+D:\c#\16-06-2021(Static)\Static\Static\obj\Debug\Static.exe
+D:\c#\16-06-2021(Static)\Static\Static\obj\Debug\Static.pdb

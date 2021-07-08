@@ -1,0 +1,7 @@
+D:\c#\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+D:\c#\Assignment\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+D:\c#\Assignment\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+D:\c#\Assignment\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+D:\c#\Assignment\Assignment6\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
+D:\c#\Assignment\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+D:\c#\Assignment\Assignment6\Assignment6\obj\Debug\Assignment6.pdb

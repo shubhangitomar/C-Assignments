@@ -1,0 +1,6 @@
+c:\users\shubhangi.tomar\documents\visual studio 2015\Projects\NumericBasics\NumericBasics\bin\Debug\NumericBasics.exe.config
+c:\users\shubhangi.tomar\documents\visual studio 2015\Projects\NumericBasics\NumericBasics\bin\Debug\NumericBasics.exe
+c:\users\shubhangi.tomar\documents\visual studio 2015\Projects\NumericBasics\NumericBasics\bin\Debug\NumericBasics.pdb
+c:\users\shubhangi.tomar\documents\visual studio 2015\Projects\NumericBasics\NumericBasics\obj\Debug\NumericBasics.csprojResolveAssemblyReference.cache
+c:\users\shubhangi.tomar\documents\visual studio 2015\Projects\NumericBasics\NumericBasics\obj\Debug\NumericBasics.exe
+c:\users\shubhangi.tomar\documents\visual studio 2015\Projects\NumericBasics\NumericBasics\obj\Debug\NumericBasics.pdb

@@ -1,0 +1,5 @@
+D:\c#\16-06-2021(Static)\Interface\Interface\bin\Debug\Interface.exe.config
+D:\c#\16-06-2021(Static)\Interface\Interface\bin\Debug\Interface.exe
+D:\c#\16-06-2021(Static)\Interface\Interface\bin\Debug\Interface.pdb
+D:\c#\16-06-2021(Static)\Interface\Interface\obj\Debug\Interface.exe
+D:\c#\16-06-2021(Static)\Interface\Interface\obj\Debug\Interface.pdb

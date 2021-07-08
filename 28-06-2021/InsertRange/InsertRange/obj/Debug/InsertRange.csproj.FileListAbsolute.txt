@@ -1,0 +1,6 @@
+D:\c#\InsertRange\InsertRange\bin\Debug\InsertRange.exe.config
+D:\c#\InsertRange\InsertRange\bin\Debug\InsertRange.exe
+D:\c#\InsertRange\InsertRange\bin\Debug\InsertRange.pdb
+D:\c#\InsertRange\InsertRange\obj\Debug\InsertRange.csprojResolveAssemblyReference.cache
+D:\c#\InsertRange\InsertRange\obj\Debug\InsertRange.exe
+D:\c#\InsertRange\InsertRange\obj\Debug\InsertRange.pdb

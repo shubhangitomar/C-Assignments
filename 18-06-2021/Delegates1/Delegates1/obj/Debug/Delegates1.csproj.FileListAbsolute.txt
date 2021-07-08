@@ -1,0 +1,6 @@
+D:\c#\18-06-2021\Delegates1\Delegates1\bin\Debug\Delegates1.exe.config
+D:\c#\18-06-2021\Delegates1\Delegates1\bin\Debug\Delegates1.exe
+D:\c#\18-06-2021\Delegates1\Delegates1\bin\Debug\Delegates1.pdb
+D:\c#\18-06-2021\Delegates1\Delegates1\obj\Debug\Delegates1.csprojResolveAssemblyReference.cache
+D:\c#\18-06-2021\Delegates1\Delegates1\obj\Debug\Delegates1.exe
+D:\c#\18-06-2021\Delegates1\Delegates1\obj\Debug\Delegates1.pdb

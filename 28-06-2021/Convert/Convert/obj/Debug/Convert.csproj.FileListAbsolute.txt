@@ -1,0 +1,9 @@
+D:\c#\Convert\Convert\bin\Debug\Convert.exe.config
+D:\c#\Convert\Convert\bin\Debug\Convert.exe
+D:\c#\Convert\Convert\bin\Debug\Convert.pdb
+D:\c#\Convert\Convert\obj\Debug\Convert.csprojResolveAssemblyReference.cache
+D:\c#\Convert\Convert\obj\Debug\Convert.exe
+D:\c#\Convert\Convert\obj\Debug\Convert.pdb
+D:\c#\28-06-2021\Convert\Convert\bin\Debug\Convert.exe.config
+D:\c#\28-06-2021\Convert\Convert\obj\Debug\Convert.exe
+D:\c#\28-06-2021\Convert\Convert\obj\Debug\Convert.pdb

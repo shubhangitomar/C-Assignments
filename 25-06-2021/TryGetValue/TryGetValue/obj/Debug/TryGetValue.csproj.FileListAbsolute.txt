@@ -1,0 +1,6 @@
+D:\c#\TryGetValue\TryGetValue\bin\Debug\TryGetValue.exe.config
+D:\c#\TryGetValue\TryGetValue\bin\Debug\TryGetValue.exe
+D:\c#\TryGetValue\TryGetValue\bin\Debug\TryGetValue.pdb
+D:\c#\TryGetValue\TryGetValue\obj\Debug\TryGetValue.csprojResolveAssemblyReference.cache
+D:\c#\TryGetValue\TryGetValue\obj\Debug\TryGetValue.exe
+D:\c#\TryGetValue\TryGetValue\obj\Debug\TryGetValue.pdb

@@ -1,0 +1,6 @@
+D:\c#\21-06-2021\Enum\Enum\bin\Debug\Enum.exe.config
+D:\c#\21-06-2021\Enum\Enum\bin\Debug\Enum.exe
+D:\c#\21-06-2021\Enum\Enum\bin\Debug\Enum.pdb
+D:\c#\21-06-2021\Enum\Enum\obj\Debug\Enum.csprojResolveAssemblyReference.cache
+D:\c#\21-06-2021\Enum\Enum\obj\Debug\Enum.exe
+D:\c#\21-06-2021\Enum\Enum\obj\Debug\Enum.pdb

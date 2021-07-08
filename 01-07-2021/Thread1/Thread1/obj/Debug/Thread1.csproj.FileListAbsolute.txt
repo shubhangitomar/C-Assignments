@@ -1,0 +1,6 @@
+D:\c#\Thread1\Thread1\bin\Debug\Thread1.exe.config
+D:\c#\Thread1\Thread1\bin\Debug\Thread1.exe
+D:\c#\Thread1\Thread1\bin\Debug\Thread1.pdb
+D:\c#\Thread1\Thread1\obj\Debug\Thread1.csprojResolveAssemblyReference.cache
+D:\c#\Thread1\Thread1\obj\Debug\Thread1.exe
+D:\c#\Thread1\Thread1\obj\Debug\Thread1.pdb

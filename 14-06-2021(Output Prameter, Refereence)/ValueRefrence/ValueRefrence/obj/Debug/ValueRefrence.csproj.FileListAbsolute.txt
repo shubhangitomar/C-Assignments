@@ -1,0 +1,6 @@
+D:\c#\14-06-2021\ValueRefrence\ValueRefrence\bin\Debug\ValueRefrence.exe.config
+D:\c#\14-06-2021\ValueRefrence\ValueRefrence\bin\Debug\ValueRefrence.exe
+D:\c#\14-06-2021\ValueRefrence\ValueRefrence\bin\Debug\ValueRefrence.pdb
+D:\c#\14-06-2021\ValueRefrence\ValueRefrence\obj\Debug\ValueRefrence.csprojResolveAssemblyReference.cache
+D:\c#\14-06-2021\ValueRefrence\ValueRefrence\obj\Debug\ValueRefrence.exe
+D:\c#\14-06-2021\ValueRefrence\ValueRefrence\obj\Debug\ValueRefrence.pdb

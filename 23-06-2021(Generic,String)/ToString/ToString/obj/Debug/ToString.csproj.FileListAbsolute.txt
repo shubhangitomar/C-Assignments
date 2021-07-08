@@ -1,0 +1,6 @@
+D:\c#\ToString\ToString\bin\Debug\ToString.exe.config
+D:\c#\ToString\ToString\bin\Debug\ToString.exe
+D:\c#\ToString\ToString\bin\Debug\ToString.pdb
+D:\c#\ToString\ToString\obj\Debug\ToString.csprojResolveAssemblyReference.cache
+D:\c#\ToString\ToString\obj\Debug\ToString.exe
+D:\c#\ToString\ToString\obj\Debug\ToString.pdb

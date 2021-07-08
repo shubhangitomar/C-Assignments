@@ -1,0 +1,5 @@
+D:\c#\14-06-2021\MultidimentionalArray\MultidimentionalArray\bin\Debug\MultidimentionalArray.exe.config
+D:\c#\14-06-2021\MultidimentionalArray\MultidimentionalArray\bin\Debug\MultidimentionalArray.exe
+D:\c#\14-06-2021\MultidimentionalArray\MultidimentionalArray\bin\Debug\MultidimentionalArray.pdb
+D:\c#\14-06-2021\MultidimentionalArray\MultidimentionalArray\obj\Debug\MultidimentionalArray.exe
+D:\c#\14-06-2021\MultidimentionalArray\MultidimentionalArray\obj\Debug\MultidimentionalArray.pdb
